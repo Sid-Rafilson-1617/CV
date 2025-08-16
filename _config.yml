@@ -1,0 +1,37 @@
+title: "Sid Rafilson — Research CV"
+email: "sid.rafilson@nyu.edu"
+description: >-
+  Research CV with links to publications, posters, and presentations.
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+collections:
+  publications:
+    output: true
+    permalink: /publications/:name/
+  presentations:
+    output: true
+    permalink: /presentations/:name/
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Navigation
+minima:
+  skin: classic
+  social_links:
+    - { platform: github, user_url: "https://github.com/Sid-Rafilson-1617" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/sid-rafilson" }
+
+# Defaults for collection items
+defaults:
+  - scope: { path: "", type: "publications" }
+    values:
+      layout: publication
+  - scope: { path: "", type: "presentations" }
+    values:
+      layout: presentation
