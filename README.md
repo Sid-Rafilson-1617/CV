@@ -16,8 +16,3 @@ Place poster PDFs in `assets/posters/` and slide decks in `assets/slides/`, then
 ## Add new items
 Create a new Markdown file under `_publications/` or `_presentations/` with front matter like the examples here.
 
-## Deploy to GitHub Pages
-1. Create a new GitHub repo (e.g., `academic-cv`).
-2. Push this folder to the repo.
-3. In **Settings → Pages**, set the source to the `main` branch and root (`/`).
-4. Wait for the site to build; it will be live at `https://<your-username>.github.io/academic-cv`.
