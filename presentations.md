@@ -32,16 +32,10 @@ ul.presentations-list li { margin: .75rem 0; }
   {%- for item in sorted -%}
     {%- if item.year == y -%}
   <li>
-<<<<<<< HEAD
-    <a href="{{ item.url | relative_url }}">{{ item.title }}</a> — {{ item.authors }}. <em>{{ item.event }}</em>, {{ item.year }}.
-    {% if item.poster != blank %}<a href="{{ item.poster | relative_url }}">[Poster]</a>{% endif %}
-    {% if item.slides != blank %}<a href="{{ item.slides | relative_url }}">[Slides]</a>{% endif %}
-=======
     <strong>{{ item.title }}</strong> — {{ item.authors }}. <em>{{ item.event }}</em>, {{ item.year }}.
     {% if item.poster %} <a href="{{ item.poster | relative_url }}">[Poster]</a>{% endif %}
     {% if item.slides %} <a href="{{ item.slides | relative_url }}">[Slides]</a>{% endif %}
     {% if item.award %}<br><span class="award-badge" aria-label="Award received">{{ item.award }}</span>{% endif %}
->>>>>>> 990086d (updates)
   </li>
     {%- endif -%}
   {%- endfor -%}
