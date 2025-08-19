@@ -1,7 +1,6 @@
 title: "Sidney Rafilson"
 email: "sid.rafilson@nyu.edu"
-description: >-
-  CV with links to publications, posters, and presentations.
+description: "Computational neuroscience -- CV, publications, posters, talks."
 baseurl: "/CV"            # repository name
 url: "https://Sid-Rafilson-1617.github.io"
 theme: minima
