@@ -4,7 +4,7 @@ description: >-
   CV with links to publications, posters, and presentations.
 baseurl: "/CV"            # repository name
 url: "https://Sid-Rafilson-1617.github.io"
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
