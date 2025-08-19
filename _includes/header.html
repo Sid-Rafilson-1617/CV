@@ -2,9 +2,23 @@
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
     <nav class="site-nav">
-  <a class="page-link" href="{{ '/assets/CV.pdf' | relative_url }}" target="_blank">CV</a>
-  <a class="page-link" href="{{ '/publications/' | relative_url }}">Publications</a>
-  <a class="page-link" href="{{ '/presentations/' | relative_url }}">Presentations &amp; Posters</a>
+      <a class="page-link" href="{{ '/assets/CV.pdf' | relative_url }}" target="_blank">CV</a>
+      <a class="page-link" href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a class="page-link" href="{{ '/presentations/' | relative_url }}">Presentations &amp; Posters</a>
     </nav>
+    <select class="mobile-nav" onchange="if (this.value) window.location.href=this.value;">
+      <option value="">Menu</option>
+      <option value="{{ '/assets/CV.pdf' | relative_url }}">CV</option>
+      <option value="{{ '/publications/' | relative_url }}">Publications</option>
+      <option value="{{ '/presentations/' | relative_url }}">Presentations &amp; Posters</option>
+    </select>
   </div>
 </header>
+<style>
+  .mobile-nav { display: none; }
+  @media (max-width: 600px) {
+    .site-nav { display: none; }
+    .mobile-nav { display: block; margin-left: auto; }
+    .site-header .wrapper { display: flex; align-items: center; }
+  }
+</style>
