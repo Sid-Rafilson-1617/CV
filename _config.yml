@@ -4,7 +4,7 @@ description: >-
   CV with links to publications, posters, and presentations.
 baseurl: ""
 url: ""
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
