@@ -8,17 +8,17 @@ title: ""
   .home-wrap {
     display: flex;
     align-items: flex-start;
-    gap: 2rem;
+    gap: 1rem;
     flex-wrap: wrap;
   }
   .left-col {
-    flex: 0 0 240px;
+    flex: 0 0 220px;
     text-align: center;
   }
   .profile-pic {
     width: 200px;
-    border-radius: 30%;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    border-radius: 40%;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
     margin-bottom: 1rem;
   }
   .icon-row {
@@ -87,7 +87,7 @@ title: ""
         I am a Ph.D. student in Neural Science at New York University. I earned a Bachelor of Science in Mathematics and Neuroscience from the University of Oregon. As an undergraduate, I trained with Matt Smear, studying place coding and related neural correlates of self-motion—such as sniffing and movement speed—in the hippocampus and olfactory bulb. My work combined analyses of single-unit spiking, population rate vectors, and local field potentials to examine neural dynamics across multiple levels.
         </p>
         <p>
-        My current research focuses on identifying general principles of neural activity that are phylogenetically conserved and may underlie a wide range of functions in sensation, perception, motor control, cognition, and emotion. I am particularly interested in memory and spatial navigation, and in how the computations that support navigation in the physical world may be repurposed for other cognitive tasks. I am also interested in neuronal oscillations and their role in computation, with an emphasis on the bidirectional relationship between oscillatory rhythms and single-unit spiking.
+        My current research focuses on identifying general principles of neural activity that are phylogenetically conserved and may underlie a wide range of functions in sensation, perception, motor control, cognition, and emotion. I am particularly interested in memory and spatial navigation, and in how the computations that support navigation in the physical world may be repurposed for other cognitive tasks.
         </p>
     </div>
 </div>

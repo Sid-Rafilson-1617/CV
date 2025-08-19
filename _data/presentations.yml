@@ -1,8 +1,10 @@
+
+
 - title: "Sensory modulated interactions between olfactory bulb hippocampus and behavior"
   authors: "Sidney Rafilson"
   event: "Neurons, Circuits and Behavior Seminar, University of Oregon"
   year: 2025
-  slides: "/assets/slides/NCB talk.pptx"
+  slides: "/assets/slides/NCB talk.pdf"
 
 
 - title: "Neural correlates of sniffing and place in simultaneous recordings from the olfactory bulb and hippocampus"
@@ -12,19 +14,20 @@
   poster: "/assets/posters/AChemS_2025.pdf"
   award: "Undergraduate Research Award"
 
+
 - title: "Clickbait with Ephys"
   authors: "Sidney Rafilson, Nate Gonzales-Hess, Casey Lennon-Jones"
-  event: "Smear Lab Meeting, University of Oregon"
+  event: "Smear Lab, University of Oregon"
   year: 2025
-  slides: "/assets/slides/Clickbait with Ephys.pptx"
-
+  slides: "/assets/slides/Clickbait with Ephys.pdf"
 
 
 - title: "Challenges in inferring breathing rhythms from olfactory bulb local field potentials"
   authors: "Rafilson et al."
   event: "Society for Neuroscience"
   year: 2024
-  poster: "/assets/posters/SFN_2024.pdf"
+  poster: "/assets/posters/SfN_2024.pdf"
+
 
 - title: "Olfactory bulb local field potentials track breathing rhythms at multiple time scales"
   authors: "Sidney Rafilson, Morgan Brown, Scott Sterrett, Teresa Findley, Adrienne Fairhall, Matt Smear"
@@ -33,8 +36,10 @@
   poster: "/assets/posters/AChemS_2024.pdf"
   award: "Undergraduate Research Award"
 
+
 - title: "Internet Addiction and its Correlates"
   authors: "Sidney Rafilson, Matthew Novak"
   event: "American Psychological Association"
   year: 2020
+  pdf: "/assets/APA_2020.pdf"
 
