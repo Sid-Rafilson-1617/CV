@@ -84,10 +84,11 @@ title: ""
     <!-- Right column: Bio text -->
     <div style="flex: 1;">
         <p>
-        I am a Ph.D. student in Neural Science at New York University. I earned a Bachelor of Science in Mathematics and Neuroscience from the University of Oregon. As an undergraduate, I trained with Matt Smear, studying place coding and related neural correlates of self-motion—such as sniffing and movement speed—in the hippocampus and olfactory bulb. My work combined analyses of single-unit spiking, population rate vectors, and local field potentials to examine neural dynamics across multiple levels.
+        I am a Neuroscience Ph.D. student in the <a href="https://buzsakilab.com/wp/" target="_blank" rel="noopener noreferrer">Buzsaki Laboratory</a>
+        at New York University. I earned a Bachelor of Science in Mathematics and Neuroscience from the University of Oregon. As an undergraduate, I trained with Matt Smear, studying place coding and related neural correlates of self-motion in the hippocampus and olfactory bulb. My work combined analyses of single-unit spiking, population rate vectors, and local field potentials to examine neural dynamics across multiple levels.
         </p>
         <p>
-        My current research focuses on identifying general principles of neural activity that are phylogenetically conserved and may underlie a wide range of functions in sensation, perception, motor control, cognition, and emotion. I am particularly interested in memory and spatial navigation, and in how the computations that support navigation in the physical world may be repurposed for other cognitive tasks.
+        An interesting question to me is if there are a few general neuronal rules which can explain many cognitive phenomena. I am particularly interested in memory and spatial navigation, and in how the neuronal computations that support navigation in the physical world may be repurposed for other higher-order cognitive tasks. My current research is focused on descibing the neuronal activity across hippocampal hemispheres durring theta oscillations and sharp wave-ripples. By clarifying interhemispheric communication durring memory formation and consolidation we gain a more comprehensive understanding of hippocampal computations. 
         </p>
     </div>
 </div>
