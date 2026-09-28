@@ -55,6 +55,16 @@ title: ""
     margin-top: 0;
   }
 
+  .cta-list {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 1rem;
+  }
+
+  .cta-list li {
+    margin: 0.3rem 0;
+  }
+
   /* Mobile layout */
   @media (max-width: 700px) {
     .home-wrap {
@@ -138,15 +148,19 @@ title: ""
   <div class="right-col">
 
     <p>
-      I am a Neuroscience Ph.D. student in the
-      <a href="https://buzsakilab.com/wp/" target="_blank" rel="noopener noreferrer">Buzsaki Laboratory</a>
+      I am a Ph.D. student in Neural Science at New York University in the
+      <a href="https://buzsakilab.com/" target="_blank" rel="noopener noreferrer">Buzsaki Lab</a>
       and the
-      <a href="https://neurostatslab.org/" target="_blank" rel="noopener noreferrer">Laboratory for Neural Statistics</a>
-      at New York University. I earned a Bachelor of Science in Mathematics and Neuroscience from the University of Oregon. As an undergraduate, I trained with Matt Smear, studying place coding and related neural correlates of self-motion in the hippocampus and olfactory bulb. My work combined analyses of single-unit spiking, population rate vectors, and local field potentials to examine neural dynamics across multiple levels.
+      <a href="https://neurostatslab.org/" target="_blank" rel="noopener noreferrer">Laboratory for Neural Statistics</a>.
+      In my undergraduate studies I earned a Bachelor of Science in Mathematics and in Neuroscience from the University of Oregon.
+      Additionally, I worked under the mentorship of Matt Smear to record electrophysiology and study place coding and related neural
+      correlates of behavior in the hippocampus and
+      olfactory bulb of freely moving mice. My work combined analyses of single-unit spiking, population rate vectors,
+      and local field potentials to examine neural dynamics across multiple spatiotemporal scales.
     </p>
 
     <p>
-      An interesting question to me is if there are a few general rules in the brain which can explain many cognitive phenomena. I am particularly interested in memory and spatial navigation, and in how the neuronal computations that support navigation in the physical world may be repurposed for other higher-order cognitive tasks. My current research is focused on describing the neuronal activity across hippocampal hemispheres during theta oscillations and sharp wave-ripples. By clarifying interhemispheric communication during memory formation and consolidation we gain a more comprehensive understanding of hippocampal computations.
+      My current research bridges experimental and theoretical neuroscience to understand the physiological processes underlying memory. With Gyorgy Buzsaki I am recording high-density electrophysiology from across the septotemporal axis of the hippocampus in freely moving rats while they sleep and run on mazes. This data is then used for fitting statistical models of neuronal spike sequences which I have been developing with Alex Williams. Collectively, we are interested in understadning the mechanisms for sequence generation during theta cycles and sharp-wave ripples. We hope that uncovering these mechanisms will explain how the mammalian brain can store information about the past to guide behavior in the future.
     </p>
 
   </div>
