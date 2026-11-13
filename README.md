@@ -6,7 +6,7 @@ This is a minimal Jekyll site (GitHub Pages-ready) to host a clickable academic 
 
 ```bash
 bundle install
-bundle exec jekyll serve --livereload --baseurl ""
+bundle exec jekyll serve --livereload --baseurl=
 ```
 Then open http://127.0.0.1:4000
 

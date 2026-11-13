@@ -160,7 +160,7 @@ title: ""
     </p>
 
     <p>
-      My current research bridges experimental and theoretical neuroscience to understand the physiological processes underlying memory. With Gyorgy Buzsaki I am recording high-density electrophysiology from across the septotemporal axis of the hippocampus in freely moving rats while they sleep and run on mazes. This data is then used for fitting statistical models of neuronal spike sequences which I have been developing with Alex Williams. Collectively, we are interested in understadning the mechanisms for sequence generation during theta cycles and sharp-wave ripples. We hope that uncovering these mechanisms will explain how the mammalian brain can store information about the past to guide behavior in the future.
+      My current research bridges experimental and theoretical neuroscience to understand the physiological processes underlying episodic memory. With Gyorgy Buzsaki I am recording high-density electrophysiology from across the septotemporal axis of the hippocampus in freely moving rats while they sleep and run on mazes. This data is then used for fitting statistical models of neuronal spike sequences which I have been developing with Alex Williams. Collectively, we are interested in understadning the mechanisms for sequence generation during theta cycles and replay during sharp-wave ripples. We hope that uncovering these mechanisms will explain how the mammalian brain can store information about the past to guide behavior in the future.
     </p>
 
   </div>
